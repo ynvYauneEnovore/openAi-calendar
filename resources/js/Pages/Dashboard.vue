@@ -11,20 +11,15 @@ import Welcome from '@/Components/Welcome.vue';
             </h2>
         </template>
 
-        <div class="py-12">
-            <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-                <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-xl sm:rounded-lg">
+        <template #main>
                     <Welcome />
-                </div>
-            </div>
-        </div>
+       </template>
 
         <template #footer>
             <div class="text-white text-center" style="padding-top: 20px;">
                 Yovan Ram&oacute;n Yaune Enovore &copy; 2023
                 <hr>
                 <a href="#" class="link-info">Success link</a><br>
-                <a href="#" class="link-info">Success link</a>
             </div>
         </template>
     </AppLayout>

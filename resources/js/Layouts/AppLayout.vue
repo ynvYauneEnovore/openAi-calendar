@@ -314,14 +314,13 @@ const logout = () => {
 
             <!-- Page Content -->
             <main style="background-color: #00040b;">
-                <slot />
+                <slot name="main"/>
             </main>
 
             <!-- Page footer -->
             <footer style="background-image: radial-gradient(circle at 44.4% -14.03%, #003c48 0, #002b35 25%, #001a21 50%, #00040b 75%, #000000 100%);">
                 <slot name="footer" />
             </footer>
-
         </div>
     </div>
 </template>
