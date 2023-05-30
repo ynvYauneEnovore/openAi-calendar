@@ -1,3 +1,26 @@
+# Mi Aplicación de Gestión de Tareas y Trabajos Pendientes con Inteligencia Artificial
+
+¡Bienvenido/a al repositorio de mi aplicación de gestión de tareas y trabajos pendientes con inteligencia artificial integrada! Esta aplicación combina la potencia del modelo de inteligencia artificial OpenAI GPT-3.5 con mi calendario personal para brindarte una experiencia avanzada de administración del tiempo y otros aspectos mejorables.
+
+## Descripción
+
+Esta aplicación está diseñada para ayudarte a organizar y administrar de manera eficiente tus tareas y trabajos pendientes. Al aprovechar la inteligencia artificial del modelo GPT-3.5 de OpenAI, la aplicación puede proporcionarte sugerencias inteligentes, recomendaciones de priorización y otros insights valiosos para mejorar tu productividad.
+
+## Características principales
+
+- Integración con el modelo GPT-3.5 de OpenAI: La inteligencia artificial de vanguardia te brinda la capacidad de obtener sugerencias y recomendaciones personalizadas para gestionar tus tareas y trabajos pendientes de manera más eficiente.
+- Calendario personalizado: La aplicación utiliza tu calendario personal para ayudarte a programar y organizar tus tareas de manera efectiva.
+- Administración del tiempo: Optimiza tu tiempo asignando duraciones estimadas a tus tareas y recibiendo recordatorios y recomendaciones para asegurarte de cumplir con los plazos.
+- Priorización inteligente: Basándose en tus patrones de trabajo y la información proporcionada, la aplicación puede sugerirte las tareas más importantes y urgentes para que puedas enfocarte en lo que realmente importa.
+- Seguimiento de progreso: Mantén un registro de tus avances y logros, y obtén información sobre cómo mejorar tu eficiencia en la gestión de tareas a lo largo del tiempo.
+
+## Instalación
+
+Sigue estos pasos para instalar y ejecutar la aplicación en tu entorno local:
+
+1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
+
+'git clone https://github.com/ynvYauneEnovore'
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
