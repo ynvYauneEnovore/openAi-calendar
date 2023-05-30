@@ -22,6 +22,70 @@ Sigue estos pasos para instalar y ejecutar la aplicación en tu entorno local:
 
 <pre><code>git clone https://github.com/ynvYauneEnovore/openAi-calendar.git</code></pre>
 
+
+2. Asegúrate de tener instalado Python 3.7 o una versión superior.
+
+3. Accede al directorio del repositorio clonado:
+
+<pre><code>cd openAi-calendar</code></pre>
+
+
+4. Crea y activa un entorno virtual:
+
+<pre><code>python3 -m venv env</code></pre>
+ # Para sistemas basados en Unix
+<pre><code>source env/bin/activate</code></pre>
+# Para Windows
+<pre><code>env\Scripts\activate</code></pre>
+
+5. Instala las dependencias necesarias:
+
+<pre><code>pip install -r requirements.txt</code></pre>
+
+6. Configura las credenciales necesarias para acceder a tu calendario personal y al modelo GPT-3.5 de OpenAI. Sigue las instrucciones proporcionadas en el archivo `config.py`.
+
+7. Inicia la aplicación:
+
+<pre><code>python app.py</code></pre>
+
+8. Abre tu navegador web y visita `http://localhost:5000` para acceder a la aplicación.
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas contribuir a esta aplicación, sigue estos pasos:
+
+1. Haz un fork de este repositorio y clónalo en tu máquina local.
+
+2. Crea una nueva rama para tu contribución:
+
+<pre><code>git checkout -b nombre-de-la-rama</code></pre>
+
+3. Realiza tus modificaciones y mejoras en el código.
+
+4. Asegúrate de que tus cambios sean correctamente probados y no introduzcan errores.
+
+5. Realiza un commit de tus cambios:
+
+<pre><code>git commit -m "Descripción de tus modificaciones"</code></pre>
+
+6. Sube tus cambios a tu repositorio remoto:
+
+<pre><code>git push origin nombre-de-la-rama</code></pre>
+
+7. Abre una solicitud de extracción en este repositorio original y describe tus contribuciones.
+
+8. Espera comentarios y feedback de otros colaboradores antes de que tus cambios sean fusionados.
+
+## Licencia
+
+Este proyecto está bajo la Licencia [MIT](LICENSE). Si deseas utilizar este código, asegúrate de cumplir con los términos de la licencia.
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia relacionada con esta aplicación, no dudes en contactarme en yovanuxf@gmail.com o a través de yovanenovore.tech. ¡Espero que disfrutes usando esta herramienta para mejorar tu administración del tiempo y la productividad!
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
